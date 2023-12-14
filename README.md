@@ -1,2 +1,3 @@
 # BallGame_MakingGamesWithBen
-This the initial state of "Ball Game" project from the Advanced C++ tutorial playlist of MakingGamesWithBen.
+
+This is the initial state of the ***"Ball Game"*** project from [this tutorial](https://www.youtube.com/watch?v=B2x5OFKlQpQ&ab_channel=MakingGamesWithBen) of the amazing playlist [Advanced C++/Graphics Tutorial](https://www.youtube.com/watch?v=FxCC9Ces1Yg&list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW&ab_channel=MakingGamesWithBen) from [MakingGamesWithBen](https://www.youtube.com/@makinggameswithben).
